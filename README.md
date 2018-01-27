@@ -1,2 +1,3 @@
 # hello-world
-practice
+
+I am learning how to program.
